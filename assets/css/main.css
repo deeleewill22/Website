@@ -230,7 +230,7 @@ a:hover
     height: 100%;
 }
 
-.image-container .profile-img
+.image-container .background-img
 {
     position: absolute;
     z-index: 1;
@@ -244,7 +244,7 @@ a:hover
          -o-transition: opacity 1s ease;
             transition: opacity 1s ease;
 
-    background: url(../img/profile.jpg);
+    background: url(../img/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -705,7 +705,7 @@ a:hover
     background: #fff;
 }
 
-#work .showcase .item .profile-image
+#work .showcase .item .background-image
 {
     position: absolute;
     top: 0;
