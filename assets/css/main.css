@@ -400,7 +400,7 @@ a:hover
          -o-transition: .2s ease;
             transition: .2s ease;
 
-    background: #008aff;
+    background: #b6d7a8;
 }
 
 #intro .container-mid a:hover:after
@@ -618,7 +618,7 @@ a:hover
             transition: .25s ease;
 
     color: #fff;
-    background: #008aff;
+    background: #b6d7a8;
 }
 
 #work .showcase .item:hover .info
@@ -937,7 +937,7 @@ a:hover
          -o-transition: .2s ease;
             transition: .2s ease;
 
-    background: #008aff;
+    background: #b6d7a8;
 }
 
 #contact #contact-form button:hover:after
@@ -1045,7 +1045,7 @@ a:hover
          -o-transition: .2s ease;
             transition: .2s ease;
 
-    background: #008aff;
+    background: #b6d7a8;
 }
 
 #footer .social-icons li:hover:after
