@@ -610,7 +610,7 @@ a:hover
     top: 0;
     left: 0;
 
-    width: 0;
+    width: 50px;
     height: 100%;
 
     -webkit-transition: .25s ease;
